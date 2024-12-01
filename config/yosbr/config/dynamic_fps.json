@@ -1,0 +1,33 @@
+{
+  "battery_tracker": {
+    "enabled": true,
+    "switch_states": true
+  },
+  "states": {
+    "hovered": {
+      "frame_rate_target": 60,
+      "volume_multipliers": {
+        "master": 0.85
+      }
+    },
+    "unfocused": {
+      "volume_multipliers": {
+        "master": 0.3
+      },
+      "graphics_state": "reduced",
+      "run_garbage_collector": true
+    },
+    "invisible": {
+      "volume_multipliers": {
+        "master": 0.05
+      },
+      "graphics_state": "minimal",
+      "run_garbage_collector": true
+    },
+    "abandoned": {
+      "frame_rate_target": 10,
+      "graphics_state": "reduced",
+      "run_garbage_collector": true
+    }
+  }
+}

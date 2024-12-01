@@ -1,0 +1,13 @@
+{
+  "main_menu": {
+    "bottom_left": [
+      {
+        "text": "Mercurium 0.9.0-beta",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/mercurium"
+        }
+      }
+    ]
+  }
+}
