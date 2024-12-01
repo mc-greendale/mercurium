@@ -179,6 +179,11 @@ hash = "c0f791cad09e48ac8875162a148314a6e1e5b7190819e820197e5bbd3c7f439e"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
 metafile = true
