@@ -1,16 +1,13 @@
 name = "Mercurium"
-author = "BANana"
+author = "BANanaDEV"
 version = "0.9.0-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "df6c152250e4e8eb245e9de08d43f2e5bd0053b329d96c3d86905bd441dd6677"
+hash = "e96a905098b5e958af4d6d22291bfa2662d3def3061654c61021a86a12d1c44f"
 
 [versions]
 fabric = "0.16.9"
 minecraft = "1.21.1"
-
-[options]
-acceptable-game-versions = []
